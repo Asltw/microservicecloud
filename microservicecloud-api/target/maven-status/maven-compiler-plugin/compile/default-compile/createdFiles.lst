@@ -1,4 +1,0 @@
-com/yg/springcloud/service/DeptClientService.class
-com/yg/springcloud/entities/Dept.class
-com/yg/springcloud/service/fallback/DeptClientServiceFallbackFactory$1.class
-com/yg/springcloud/service/fallback/DeptClientServiceFallbackFactory.class
