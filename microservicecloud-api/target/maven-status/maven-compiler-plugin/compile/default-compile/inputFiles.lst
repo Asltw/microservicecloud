@@ -1,0 +1,3 @@
+/DT/github/microservicecloud/microservicecloud-api/src/main/java/com/yg/springcloud/service/DeptClientService.java
+/DT/github/microservicecloud/microservicecloud-api/src/main/java/com/yg/springcloud/entities/Dept.java
+/DT/github/microservicecloud/microservicecloud-api/src/main/java/com/yg/springcloud/service/fallback/DeptClientServiceFallbackFactory.java
